@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {background-color:lightpink}
+
+#Logo       {float:left;}
+#Icon       {float:right;}
+#navigacion 
+{
+	clear:both;
+	border-top:solid black 1px;
+	border-bottom: solid black 1px;
+	word-spacing: 30px;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	padding:10px
+		
+}
+#Tajuk {float:left;width:640px;}
+#Tajuk h1 {color:#3D4DAB;font-family:Arial;} 
+#Kanan {float:right;width: 290px;}
+#Tajuk h1 {clear: both; border-bottom: solid black 1px; padding:10px;}
+#Kanan h3 {color:#3D4DAB;font-family:Arial;margin-bottom: 20px } 
+#Tajuk IMG {border:solid grey 1px; padding: 3px; margin-right: 10px;}
+
+#footer {clear:both; width: 1000px;text-align: center;text-align: center; border-top:solid black 1px;} 
+
+#wrapper {background-color:white; 
+width:1100px; margin:0px auto; }
+
+#wrapper2 {background-color:white;width: 950px;margin: 0px auto; }

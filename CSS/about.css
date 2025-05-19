@@ -1,0 +1,37 @@
+@charset "utf-8";
+/* CSS Document */
+body {background-color: lightblue;margin-left: 58px;}
+
+#Logo       {float:left;}
+#Icon       {float:right;}
+#navigacion 
+{
+	clear: both; 
+	border-top: solid black 1.5px;
+	border-bottom: solid black 1.5px; 
+	word-spacing: 30px;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	padding:10px
+}
+#Tajuk h1 {color:maroon ;font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";}
+#kanan {float:right;width: 220px;}
+#Tajuk h1 {clear: both; border-bottom: solid black 2px;padding: 20PX;}
+
+#footer {clear: both;width: 980px;text-align: center;
+	border-top:solid black 1px;}
+
+#wrapper {background-color: white ;width: 900px; margin: 0px }
+#wrapper2 {background-color: white;width: 950px;padding: 40px; margin: 0px auto;}
+
+#Livingroom {width: 250px;border-top: solid red 10px; background-color:lightgray;float:left;margin-left: 20px;}
+#Livingroom h2 {padding-left: 10px;}
+#Livingroom p {padding-left: 10px;}
+
+#Traditionalroom { width: 250px;border-top: solid red 10px; background-color:lightgray;float:left;margin-left: 50px;}
+#Traditionalroom h2 {padding-left: 10px;}
+#Traditionalroom p {padding-left: 10px;}
+
+#contemporaryroom {width: 250px;border-top: solid red 10px; background-color:lightgray; float:left;margin-left: 50px;} 
+#contemporaryroom h2 {padding-left: 10px;}
+#contemporaryroom p {padding-left: 10px;}

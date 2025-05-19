@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {background-color:white}
+
+#Logo       {float:left;}
+#Icon       {float:right;}
+#navigacion 
+{
+	clear:both;
+	border-top:solid black 1px;
+	border-bottom: solid black 1px;
+	word-spacing: 30px;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	padding:10px
+}
+#Tajuk h1 {color:#3D4DAB;font-family:Arial;} 
+#Kanan {float:right;width: 290px;}
+#Tajuk h1 {clear: both; border-bottom: solid black 1px; padding:10px;}
+#footer {clear:both; width: 1000px;text-align: center; 
+	border-top:solid black 1px;} 
+
+#wrapper {background-color:white;width:1100px; margin:0px auto;}
+#wrapper2 {background-color:pink;width: 950px;padding: 40px;margin:0px auto;}
+
+#Tajuk1 {width:900 px;}
+#Tajuk1 h1 {color:#3D4DAB;font-family:Arial;border-color: solid grey;}
+
+#ModernRoom{width: 250px;border-top: solid red 10px; background-color:lightgray;float:left;margin-left: 20px;}
+#ModernRoom h2 {padding-left: 10px;}
+#ModernRoom {padding-left: 10px;}
+
+#TraditionalRoom { width: 250px;border-top: solid red 10px; background-color:lightgray;float:left;margin-left: 50px;}
+#TraditionalRoom h2 {padding-left: 10px;}
+#TraditionalRoom p {padding-left: 10px;}
+
+#ContemporaryRoom{width: 250px;border-top: solid red 10px; background-color:lightgray; float:left;margin-left: 50px;} 
+#contemporaryroom h2 {padding-left: 10px;}
+#contemporaryroom p {padding-left: 10px;}
+
